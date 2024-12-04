@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "4dcecab3-827f-4f94-915b-bb30cc38d64e": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/225/487/original/SW168-169-cleaned-merged.wav?1705012323",
+      "duration": 1137.98754
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "description here"
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-12-04T19:15:21.813Z",
+  "created_by": "pbinkley",
+  "item_type": "Audio",
+  "label": "Imported Event 1",
+  "updated_at": "2024-12-04T19:15:21.813Z",
+  "updated_by": "pbinkley"
+}

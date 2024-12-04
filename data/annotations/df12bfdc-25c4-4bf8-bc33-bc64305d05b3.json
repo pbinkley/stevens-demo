@@ -1,0 +1,326 @@
+{
+  "event_id": "7c7a3de0-b164-4b87-bc26-0b0939e033ba",
+  "source_id": "4dcecab3-827f-4f94-915b-bb30cc38d64e",
+  "set": "Peter Stevens Index [Index]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 68,
+      "annotation": [
+        {
+          "text": "Edward Marxheimer addresses audience"
+        }
+      ],
+      "tags": [],
+      "uuid": "bd4342bb-305f-4dea-8596-55433abe5e54"
+    },
+    {
+      "start_time": 69,
+      "end_time": 153,
+      "annotation": [
+        {
+          "text": "Marxheimer introduces Peter Stevens [in English]"
+        }
+      ],
+      "tags": [],
+      "uuid": "d94cced1-2fe5-4cce-a1af-743f87b89288"
+    },
+    {
+      "start_time": 154,
+      "end_time": 273,
+      "annotation": [
+        {
+          "text": "Marxheimer reintroduces Stevens [in French]"
+        }
+      ],
+      "tags": [],
+      "uuid": "71b5cb4c-2cdf-42ca-9c94-948fe9114a2c"
+    },
+    {
+      "start_time": 274,
+      "end_time": 372,
+      "annotation": [
+        {
+          "text": "Stevens discusses the phases of Dorothy Livesay's career"
+        }
+      ],
+      "tags": [],
+      "uuid": "1c9af932-a19e-4ec4-aca2-c87ef503dd1e"
+    },
+    {
+      "start_time": 373,
+      "end_time": 488,
+      "annotation": [
+        {
+          "text": "Stevens discusses rhythmic subtext in Livesay's poetry"
+        }
+      ],
+      "tags": [],
+      "uuid": "35d5eb37-3658-4603-b5a6-3ce4d64a5e59"
+    },
+    {
+      "start_time": 489,
+      "end_time": 559,
+      "annotation": [
+        {
+          "text": "Stevens discusses Livesay's use of image as substantiating the notion of rhythmic subtext [Incomplete]"
+        }
+      ],
+      "tags": [],
+      "uuid": "94096526-527b-4e8b-8793-04f8e48af45b"
+    },
+    {
+      "start_time": 560,
+      "end_time": 562,
+      "annotation": [
+        {
+          "text": "[Merge gap]"
+        }
+      ],
+      "tags": [],
+      "uuid": "05fb4681-08cf-42e2-b409-2268a12d3af4"
+    },
+    {
+      "start_time": 563,
+      "end_time": 587,
+      "annotation": [
+        {
+          "text": "Stevens introduces excerpt from Livesay's \"The Quarrel\""
+        }
+      ],
+      "tags": [],
+      "uuid": "bfe190f2-3046-4c95-b8f9-c1c20bb7a752"
+    },
+    {
+      "start_time": 588,
+      "end_time": 615,
+      "annotation": [
+        {
+          "text": "Stevens performs excerpt from \"The Quarrel\" [air conditioning noise in background]"
+        }
+      ],
+      "tags": [],
+      "uuid": "fedd0c87-0b39-408d-a2bc-b9543a810876"
+    },
+    {
+      "start_time": 616,
+      "end_time": 634,
+      "annotation": [
+        {
+          "text": "Stevens discusses poetry as a way of creating order from the inexpressible"
+        }
+      ],
+      "tags": [],
+      "uuid": "bb179baf-9ab5-48e3-afdd-c77085e60da3"
+    },
+    {
+      "start_time": 635,
+      "end_time": 646,
+      "annotation": [
+        {
+          "text": "Stevens introduces excerpt from Livesay's \"The Emperor's Circus\""
+        }
+      ],
+      "tags": [],
+      "uuid": "8336b3cc-ddbc-47e6-90eb-42d27ead9441"
+    },
+    {
+      "start_time": 647,
+      "end_time": 723,
+      "annotation": [
+        {
+          "text": "Stevens performs excerpt from \"The Emperor's Circus\""
+        }
+      ],
+      "tags": [],
+      "uuid": "735d776a-d50a-4078-ab5f-9d5093670841"
+    },
+    {
+      "start_time": 724,
+      "end_time": 764,
+      "annotation": [
+        {
+          "text": "Stevens discusses imagery in Dorothy Livesay's poetry in the context of creating order from the inexpressible"
+        }
+      ],
+      "tags": [],
+      "uuid": "4867304d-afdc-4c1d-ab11-9f0ba6ecebf7"
+    },
+    {
+      "start_time": 765,
+      "end_time": 775,
+      "annotation": [
+        {
+          "text": "Applause"
+        }
+      ],
+      "tags": [],
+      "uuid": "87741d54-fa56-4eed-b640-a214bf8ec526"
+    },
+    {
+      "start_time": 776,
+      "end_time": 821,
+      "annotation": [
+        {
+          "text": "Marxheimer gives closing remarks"
+        }
+      ],
+      "tags": [],
+      "uuid": "9ec51e79-faa6-4e4e-b07e-d11fc0d3a2ac"
+    },
+    {
+      "start_time": 822,
+      "end_time": 825,
+      "annotation": [
+        {
+          "text": "Audience 1 asks Marxheimer whether questions can be asked in French [in French]"
+        }
+      ],
+      "tags": [],
+      "uuid": "fb3c4297-b2cb-44be-8eeb-9715af160ef2"
+    },
+    {
+      "start_time": 826,
+      "end_time": 844,
+      "annotation": [
+        {
+          "text": "Marxheimer answers Audience 1 about whether questions can be asked in French [in French]"
+        }
+      ],
+      "tags": [],
+      "uuid": "e3a88abb-bc3f-4e74-b28a-8cd7cfbb0e79"
+    },
+    {
+      "start_time": 845,
+      "end_time": 863,
+      "annotation": [
+        {
+          "text": "Audience 1 asks Stevens about Dorothy Livesay's influence on young poets [in French and English]"
+        }
+      ],
+      "tags": [],
+      "uuid": "8a0d3863-e308-4aca-98a0-6ff90014e5fe"
+    },
+    {
+      "start_time": 864,
+      "end_time": 900,
+      "annotation": [
+        {
+          "text": "Stevens answers Audience 1 about Dorothy Livesay's influence on young poets"
+        }
+      ],
+      "tags": [],
+      "uuid": "697cb182-0083-40cb-ad9b-2f8fff38e1f8"
+    },
+    {
+      "start_time": 901,
+      "end_time": 906,
+      "annotation": [
+        {
+          "text": "Audience 2 asks Stevens about young poets' interest in Dorothy Livesay"
+        }
+      ],
+      "tags": [],
+      "uuid": "2cafc068-9bcd-4dff-8fa3-d6e881218499"
+    },
+    {
+      "start_time": 907,
+      "end_time": 909,
+      "annotation": [
+        {
+          "text": "Stevens answers Audience 2 about young poets' interest in Dorothy Livesay"
+        }
+      ],
+      "tags": [],
+      "uuid": "02601363-d4c1-48f2-b05e-d33cea0b5567"
+    },
+    {
+      "start_time": 910,
+      "end_time": 963,
+      "annotation": [
+        {
+          "text": "Audience 3 comments about poetic silence as existential experience"
+        }
+      ],
+      "tags": [],
+      "uuid": "e5e75539-ecc6-4c9d-9f5f-80b81cafef25"
+    },
+    {
+      "start_time": 964,
+      "end_time": 982,
+      "annotation": [
+        {
+          "text": "Stevens responds to Audience 3's comment about poetic silence as existential experience"
+        }
+      ],
+      "tags": [],
+      "uuid": "817bc72c-a7af-442b-8dfb-274f30ce972c"
+    },
+    {
+      "start_time": 983,
+      "end_time": 1010,
+      "annotation": [
+        {
+          "text": "Audience 3 comments about the difference between aloneness and loneliness"
+        }
+      ],
+      "tags": [],
+      "uuid": "0f98e51c-d40f-41a8-86e5-038dae2dab1a"
+    },
+    {
+      "start_time": 1011,
+      "end_time": 1030,
+      "annotation": [
+        {
+          "text": "Audience 4 asks Stevens about markers of adolescence in Livesay's poetry"
+        }
+      ],
+      "tags": [],
+      "uuid": "88c08bcf-d418-4e1c-b2f9-5bfd54931fe7"
+    },
+    {
+      "start_time": 1031,
+      "end_time": 1036,
+      "annotation": [
+        {
+          "text": "Stevens asks Audience 4 to clarify their question"
+        }
+      ],
+      "tags": [],
+      "uuid": "e9d9c4aa-d794-4be3-a215-b1ef58cbf56e"
+    },
+    {
+      "start_time": 1037,
+      "end_time": 1054,
+      "annotation": [
+        {
+          "text": "Audience 4 comments about the presence of an adolescent viewpoint in Livesay's poetry"
+        }
+      ],
+      "tags": [],
+      "uuid": "65f3aa7f-fec8-460f-9f64-b23f86a83d3c"
+    },
+    {
+      "start_time": 1055,
+      "end_time": 1086,
+      "annotation": [
+        {
+          "text": "Stevens answers Audience 4 about the possible association of Livesay's love poems with youthfulness"
+        }
+      ],
+      "tags": [],
+      "uuid": "7edf7b62-d41d-483b-bafe-fcd9d45ae710"
+    },
+    {
+      "start_time": 1087,
+      "end_time": 1128,
+      "annotation": [
+        {
+          "text": "Marxheimer restates closing remarks"
+        }
+      ],
+      "tags": [],
+      "uuid": "ad5ea0e6-2f2d-47e1-ae23-6cfee445f035"
+    }
+  ]
+}
